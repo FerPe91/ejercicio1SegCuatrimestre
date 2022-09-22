@@ -1,0 +1,12 @@
+{
+  "name": "clase_15_09_2022",
+  "version": "1.0.0",
+  "description": "practica",
+  "main": "objeto1.js",
+  "scripts": {
+    "convertir": "tsc auto.ts",
+    "ejecutar": "node auto.js"
+  },
+  "author": "yo",
+  "license": "ISC"
+}
